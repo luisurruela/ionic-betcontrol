@@ -1,0 +1,7 @@
+{
+  "name": "ionic-betcontrol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
